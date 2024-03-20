@@ -1,0 +1,71 @@
+=== n = 8, angleTau = zeta_8 ===
+The lattice parametrised by [
+    lambda,
+    mu
+]
+is homothetic (only) to the lattice parametrised by [
+    lambda + mu,
+    lambda - mu
+]
+The complex conjugate lattice is parametrised by [
+    lambda + mu,
+    lambda - mu
+]
+
+=== n = 10, angleTau = zeta_{10} ===
+The lattice parametrised by [
+    lambda,
+    mu
+]
+is homothetic (only) to the lattice parametrised by [
+    3/4*lambda - 1/4*mu,
+    lambda - 3/4*mu
+]
+The complex conjugate lattice is parametrised by [
+    3*lambda - mu,
+    4*lambda - 3*mu
+]
+
+=== n = 10, angleTau = zeta_{10}^2 ===
+The lattice parametrised by [
+    lambda,
+    mu
+]
+is homothetic (only) to the lattice parametrised by [
+    -lambda,
+    lambda + mu
+]
+The complex conjugate lattice is parametrised by [
+    lambda,
+    -lambda - mu
+]
+
+=== n = 12, angleTau = zeta_{12} ===
+The lattice parametrised by [
+    lambda,
+    mu
+]
+is homothetic (only) to the lattice parametrised by [
+    -lambda - mu,
+    mu
+]
+The complex conjugate lattice is parametrised by [
+    lambda + mu,
+    -mu
+]
+
+=== n = 12, angleTau = zeta_{12}^3 ===
+The lattice parametrised by [
+    lambda,
+    mu
+]
+is homothetic (only) to the lattice parametrised by [
+    -lambda,
+    lambda + mu
+]
+The complex conjugate lattice is parametrised by [
+    lambda,
+    -lambda - mu
+]
+
+Total time: 1.360 seconds, Total memory usage: 32.09MB

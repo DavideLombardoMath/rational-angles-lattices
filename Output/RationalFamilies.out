@@ -1,0 +1,1186 @@
+Loading "TracePoly.m"
+Loading "Lattices.m"
+Loading "TracePoly.m"
+==== n = 8, squared angle zeta_{8} ====
+=== Rational angles ===
+[
+    [
+        (lambda^2 - 2*lambda*mu - mu^2)/(lambda + mu),
+        (-2*lambda^3 - 4*lambda^2*mu + 2*lambda*mu^2)/(lambda^2 - 2*lambda*mu - 
+            mu^2)
+    ]
+]
+[
+    [
+        -2*mu,
+        (-lambda^2 - 2*lambda*mu + mu^2)/(lambda - mu)
+    ],
+    [
+        (-1/2*lambda^2 - lambda*mu + 1/2*mu^2)/lambda,
+        -2*lambda - 2*mu
+    ]
+]
+Vanishing of numerators
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+Vanishing of denominators
+Points: { (0 : 0 : 0 : 1), (0 : 0 : -1 : 1), (0 : 0 : 1 : 1) }
+Collisions
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : 1 : 1), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1 0
+[ 3, 3 ]
+[
+    {
+        Tau + 1,
+        Tau - 2,
+        Tau - 1/2
+    },
+    {
+        Tau,
+        Tau - 1,
+        1
+    }
+]
+[
+    { 1, 2, 3, 5, 6, 7 },
+    { 1, 2, 3, 5, 6, 7 }
+]
+[lambda : mu] =  0 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 4, 5, 6, 7 }
+]
+[lambda : mu] =  -1 1
+[ 4 ]
+[
+    {
+        Tau,
+        1,
+        Tau - 1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 4, 5, 6, 7 }
+]
+[lambda : mu] =  1 1
+[ 3, 3 ]
+[
+    {
+        Tau - 4,
+        Tau - 1,
+        Tau + 2
+    },
+    {
+        Tau,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 5, 6, 7 },
+    { 1, 2, 3, 5, 6, 7 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_8^2 ===
+Vanishing of discriminant
+{@ (0 : 0 : -1 : 1), (0 : 0 : 0 : 1) @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : 0 : 1), (0 : 0 : 1 : 0) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : 1 : 1), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1), (0 : 0 : 1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1 0
+Discriminant at point 1
+[ 3, 3 ]
+[
+    {
+        Tau + 1,
+        Tau - 2,
+        Tau - 1/2
+    },
+    {
+        Tau,
+        Tau - 1,
+        1
+    }
+]
+[
+    { 1, 2, 3, 5, 6, 7 },
+    { 1, 2, 3, 5, 6, 7 }
+]
+[lambda : mu] =  0 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 4, 5, 6, 7 }
+]
+[lambda : mu] =  -1 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        1,
+        Tau - 1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 4, 5, 6, 7 }
+]
+[lambda : mu] =  1 1
+Discriminant at point 4
+[ 3, 3 ]
+[
+    {
+        Tau - 4,
+        Tau - 1,
+        Tau + 2
+    },
+    {
+        Tau,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 5, 6, 7 },
+    { 1, 2, 3, 5, 6, 7 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_8^4 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : -1 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  0 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 4, 5, 6, 7 }
+]
+[lambda : mu] =  -1 1
+Discriminant at point 4
+[ 4 ]
+[
+    {
+        Tau,
+        1,
+        Tau - 1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 4, 5, 6, 7 }
+]
+
+
+
+
+
+==== n = 10, squared angle zeta_{10} ====
+=== Rational angles ===
+[
+    [
+        (4/3*lambda^2 - 2*lambda*mu + 1/3*mu^2)/(lambda - 1/3*mu),
+        (-5/4*lambda^3 - 5/4*lambda^2*mu + 5/4*lambda*mu^2)/(lambda^2 - 
+            3/2*lambda*mu + 1/4*mu^2)
+    ]
+]
+Vanishing of numerators
+Points: { (0 : 0 : 0 : 1) }
+Vanishing of denominators
+Points: { (0 : 0 : 1/3 : 1) }
+Collisions
+Points: {}
+== Description of the special lattices ==
+[lambda : mu] =  1/3 1
+[ 4 ]
+[
+    {
+        Tau - 5/3,
+        Tau,
+        1,
+        Tau - 5/6
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  0 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{10}^2 ===
+Vanishing of discriminant
+{@ (0 : 0 : 0 : 1), (0 : 0 : 1/3 : 1) @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : 0 : 1), (0 : 0 : 1/2 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1/3 : 1), (0 : 0 : 0 : 1), (0 : 0 : 1/2 :
+1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 1/2 : 1), (0 : 0 : 0 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1/3 : 1), (0 : 0 : 1/2 : 1), (0 : 0 : 0 :
+1) }
+== Description of the special lattices ==
+[lambda : mu] =  -1/2 1
+Discriminant at point 225/16
+[ 3, 3 ]
+[
+    {
+        Tau - 5/8,
+        Tau - 15/2,
+        Tau - 2
+    },
+    {
+        Tau,
+        1,
+        Tau - 5/2
+    }
+]
+[
+    { 1, 2, 3, 7, 8, 9 },
+    { 1, 2, 3, 7, 8, 9 }
+]
+[lambda : mu] =  1/3 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau - 5/3,
+        Tau,
+        1,
+        Tau - 5/6
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  0 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  1/2 1
+Discriminant at point 9/16
+[ 3, 3 ]
+[
+    {
+        Tau - 5/8,
+        Tau - 2,
+        Tau - 1/6
+    },
+    {
+        Tau,
+        1,
+        Tau - 1/2
+    }
+]
+[
+    { 1, 2, 3, 7, 8, 9 },
+    { 1, 2, 3, 7, 8, 9 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{10}^3 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1/2 : 1), (0 : 0 : 2 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 2 : 1), (0 : 0 : 1/2 : 1), (0 : 0 : 1 : 
+1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 2 : 1), (0 : 0 : -1/2 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 2 : 1), (0 : 0 : -1/2 : 1), (0 : 0 : 1/2 : 1), (0 : 0 : 1 : 
+1) }
+== Description of the special lattices ==
+[lambda : mu] =  -1/2 1
+Discriminant at point 25/16
+[ 3, 3 ]
+[
+    {
+        Tau - 5/8,
+        Tau - 15/2,
+        Tau - 2
+    },
+    {
+        Tau,
+        1,
+        Tau - 5/2
+    }
+]
+[
+    { 1, 2, 3, 7, 8, 9 },
+    { 1, 2, 3, 7, 8, 9 }
+]
+[lambda : mu] =  2 1
+Discriminant at point 400
+[ 3, 3 ]
+[
+    {
+        Tau - 10,
+        Tau + 1,
+        Tau + 15/4
+    },
+    {
+        Tau,
+        1,
+        Tau + 5
+    }
+]
+[
+    { 1, 3, 4, 6, 7, 9 },
+    { 1, 3, 4, 6, 7, 9 }
+]
+[lambda : mu] =  1/2 1
+Discriminant at point 1/16
+[ 3, 3 ]
+[
+    {
+        Tau - 5/8,
+        Tau - 2,
+        Tau - 1/6
+    },
+    {
+        Tau,
+        1,
+        Tau - 1/2
+    }
+]
+[
+    { 1, 2, 3, 7, 8, 9 },
+    { 1, 2, 3, 7, 8, 9 }
+]
+[lambda : mu] =  1 1
+Discriminant at point 16
+[ 3, 3 ]
+[
+    {
+        Tau + 5,
+        Tau - 1/2,
+        Tau + 4/3
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 3, 4, 6, 7, 9 },
+    { 1, 3, 4, 6, 7, 9 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{10}^4 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : 0 : 1), (0 : 0 : 1 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 2 : 1), (0 : 0 : 1/3 : 1), (0 : 0 : 0 : 1), (0 : 0 : 1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 0 : 1), (0 : 0 : 1 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 2 : 1), (0 : 0 : 1/3 : 1), (0 : 0 : 0 : 1), (0 : 0 : 1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  2 1
+Discriminant at point 225
+[ 3, 3 ]
+[
+    {
+        Tau - 10,
+        Tau + 1,
+        Tau + 15/4
+    },
+    {
+        Tau,
+        1,
+        Tau + 5
+    }
+]
+[
+    { 1, 3, 4, 6, 7, 9 },
+    { 1, 3, 4, 6, 7, 9 }
+]
+[lambda : mu] =  1/3 1
+Discriminant at point 25/81
+[ 4 ]
+[
+    {
+        Tau - 5/3,
+        Tau,
+        1,
+        Tau - 5/6
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  0 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  1 1
+Discriminant at point 9
+[ 3, 3 ]
+[
+    {
+        Tau + 5,
+        Tau - 1/2,
+        Tau + 4/3
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 3, 4, 6, 7, 9 },
+    { 1, 3, 4, 6, 7, 9 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{10}^5 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : 1/3 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 1/3 : 1), (0 : 0 : 0 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 1/3 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 1/3 : 1), (0 : 0 : 0 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1/3 1
+Discriminant at point 25/81
+[ 4 ]
+[
+    {
+        Tau - 5/3,
+        Tau,
+        1,
+        Tau - 5/6
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  0 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+
+
+
+
+
+==== n = 10, squared angle zeta_{10}^2 ====
+=== Rational angles ===
+[
+    [
+        (-lambda^2 - 2*lambda*mu)/(lambda + mu),
+        (-lambda^2*mu + lambda*mu^2 + mu^3)/(lambda^2 + 2*lambda*mu)
+    ]
+]
+Vanishing of numerators
+Points: { (0 : 0 : -2 : 1), (0 : 0 : 1 : 0), (0 : 0 : 0 : 1) }
+Vanishing of denominators
+Points: { (0 : 0 : -2 : 1), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+Collisions
+Points: {}
+== Description of the special lattices ==
+[lambda : mu] =  -2 1
+[ 2 ]
+[
+    {
+        Tau,
+        1
+    }
+]
+[
+    { 2, 8 }
+]
+[lambda : mu] =  1 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 2, 3, 4, 5, 6, 7, 8 }
+]
+[lambda : mu] =  0 1
+[ 4 ]
+[
+    {
+        Tau,
+        1,
+        Tau - 1,
+        Tau + 1
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  -1 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau + 1/2,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 2, 3, 4, 5, 6, 7, 8 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{10}^4 ===
+Vanishing of discriminant
+{@ (0 : 0 : -1 : 1), (0 : 0 : 1 : 0) @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : 0 : 1), (0 : 0 : 1 : 0) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1 0
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 2, 3, 4, 5, 6, 7, 8 }
+]
+[lambda : mu] =  0 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        1,
+        Tau - 1,
+        Tau + 1
+    }
+]
+[
+    { 1, 2, 4, 5, 6, 8, 9 }
+]
+[lambda : mu] =  -1 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau + 1/2,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 2, 3, 4, 5, 6, 7, 8 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{10}^5 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 1 : 0), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : -1 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1 0
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 2, 3, 4, 5, 6, 7, 8 }
+]
+[lambda : mu] =  -1 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau + 1/2,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 2, 3, 4, 5, 6, 7, 8 }
+]
+
+
+
+
+
+==== n = 12, squared angle zeta_{12} ====
+=== Rational angles ===
+[
+    [
+        (-2*lambda*mu - mu^2)/(lambda + mu),
+        (lambda^3 + lambda^2*mu - 1/2*lambda*mu^2)/(lambda*mu + 1/2*mu^2)
+    ]
+]
+[
+    [
+        -lambda - 2*mu,
+        (-2*lambda^2 - 2*lambda*mu + mu^2)/(lambda - mu)
+    ],
+    [
+        (-lambda^2 - lambda*mu + 1/2*mu^2)/lambda,
+        -2*lambda - 2*mu
+    ]
+]
+Vanishing of numerators
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : -2 : 1), (0 : 0 : 1 : 0), (0 : 0 : 0 : 
+1), (0 : 0 : -1 : 1) }
+Vanishing of denominators
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 
+1), (0 : 0 : 1 : 1) }
+Collisions
+Points: { (0 : 0 : -2 : 1), (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 0), (0 : 0 : 0 : 
+1), (0 : 0 : 1 : 1), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  -1/2 1
+[ 4 ]
+[
+    {
+        Tau - 3/2,
+        Tau,
+        Tau - 1,
+        1
+    }
+]
+[
+    { 1, 3, 4, 5, 7, 8, 9, 11 }
+]
+[lambda : mu] =  -2 1
+[ 3, 3 ]
+[
+    {
+        Tau - 3,
+        Tau + 3/4,
+        Tau + 2
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 4, 5, 7, 8, 11 },
+    { 1, 4, 5, 7, 8, 11 }
+]
+[lambda : mu] =  1 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 5, 7, 9, 10, 11 }
+]
+[lambda : mu] =  0 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 5, 6, 7, 10, 11 }
+]
+[lambda : mu] =  -1 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 1/2
+    }
+]
+[
+    { 1, 2, 5, 6, 7, 10, 11 }
+]
+[lambda : mu] =  1 1
+[ 3, 3 ]
+[
+    {
+        Tau - 3/2,
+        Tau - 4,
+        Tau + 1
+    },
+    {
+        Tau - 3,
+        Tau,
+        1
+    }
+]
+[
+    { 1, 4, 5, 7, 8, 11 },
+    { 1, 4, 5, 7, 8, 11 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{12}^2 ===
+Vanishing of discriminant
+{@ (0 : 0 : -1 : 1), (0 : 0 : 0 : 1) @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : 0 : 1), (0 : 0 : 1 : 0) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1 0
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 5, 7, 9, 10, 11 }
+]
+[lambda : mu] =  0 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 5, 6, 7, 10, 11 }
+]
+[lambda : mu] =  -1 1
+Discriminant at point 0
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 1/2
+    }
+]
+[
+    { 1, 2, 5, 6, 7, 10, 11 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{12}^3 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 0) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 0) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 0) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 0) }
+== Description of the special lattices ==
+[lambda : mu] =  -1/2 1
+Discriminant at point 9/4
+[ 4 ]
+[
+    {
+        Tau - 3/2,
+        Tau,
+        Tau - 1,
+        1
+    }
+]
+[
+    { 1, 3, 4, 5, 7, 8, 9, 11 }
+]
+[lambda : mu] =  1 0
+Discriminant at point 4
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 3, 5, 7, 9, 10, 11 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{12}^4 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -2 : 1), (0 : 0 : -1/2 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : -2 : 1), (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : -2 : 1), (0 : 0 : -1/2 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : -2 : 1), (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  -2 1
+Discriminant at point 36
+[ 3, 3 ]
+[
+    {
+        Tau - 3,
+        Tau + 3/4,
+        Tau + 2
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 4, 5, 7, 8, 11 },
+    { 1, 4, 5, 7, 8, 11 }
+]
+[lambda : mu] =  -1/2 1
+Discriminant at point 9/16
+[ 4 ]
+[
+    {
+        Tau - 3/2,
+        Tau,
+        Tau - 1,
+        1
+    }
+]
+[
+    { 1, 3, 4, 5, 7, 8, 9, 11 }
+]
+[lambda : mu] =  1 1
+Discriminant at point 36
+[ 3, 3 ]
+[
+    {
+        Tau - 3/2,
+        Tau - 4,
+        Tau + 1
+    },
+    {
+        Tau - 3,
+        Tau,
+        1
+    }
+]
+[
+    { 1, 4, 5, 7, 8, 11 },
+    { 1, 4, 5, 7, 8, 11 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{12}^6 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : -1 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 0 : 1), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  0 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 2
+    }
+]
+[
+    { 1, 2, 5, 6, 7, 10, 11 }
+]
+[lambda : mu] =  -1 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau - 1/2
+    }
+]
+[
+    { 1, 2, 5, 6, 7, 10, 11 }
+]
+
+
+
+
+
+==== n = 12, squared angle zeta_{12}^3 ====
+=== Rational angles ===
+[
+    [
+        -lambda - 2*mu,
+        (lambda^2 - 2*lambda*mu - 2*mu^2)/(lambda + 2*mu)
+    ]
+]
+Vanishing of numerators
+Points: { (0 : 0 : -2 : 1) }
+Vanishing of denominators
+Points: { (0 : 0 : -2 : 1) }
+Collisions
+Points: {}
+== Description of the special lattices ==
+[lambda : mu] =  -2 1
+[ 2 ]
+[
+    {
+        Tau,
+        1
+    }
+]
+[
+    { 3, 9 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{12}^2 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1 : 1), (0 : 0 : 0 : 1), (0 : 0 : 1 : 0) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : 1 : 0), (0 : 0 : -1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : -1 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : 1 : 0), (0 : 0 : -1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  1 0
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 2, 3, 5, 7, 9, 10, 11 }
+]
+[lambda : mu] =  0 1
+Discriminant at point -1
+Discriminant at point is not a square
+[lambda : mu] =  -1 1
+Discriminant at point 1
+[ 4 ]
+[
+    {
+        Tau,
+        Tau - 1,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 2, 3, 5, 7, 9, 10, 11 }
+]
+
+
+
+=== Elliptic family: angle of squared amplitude zeta_{12}^4 ===
+Vanishing of discriminant
+{@ @}
+Collisions between two of the 'extra' angles
+{@ (0 : 0 : -1/2 : 1), (0 : 0 : 0 : 1), (0 : 0 : 1 : 1) @}
+Collisions between one of the 'extra' angles and one of the 'standard' ones
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 1) }
+Vanishing of denominator of one of the 'extra' angles
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 1) }
+Vanishing of the parameter of one of the 'extra' angles
+Points: { (0 : 0 : -1/2 : 1), (0 : 0 : 1 : 1) }
+== Description of the special lattices ==
+[lambda : mu] =  -1/2 1
+Discriminant at point 9/16
+[ 4 ]
+[
+    {
+        Tau - 3/2,
+        Tau,
+        1,
+        Tau - 1/2
+    }
+]
+[
+    { 1, 3, 4, 5, 7, 8, 9, 11 }
+]
+[lambda : mu] =  0 1
+Discriminant at point -1
+Discriminant at point is not a square
+[lambda : mu] =  1 1
+Discriminant at point 9
+[ 4 ]
+[
+    {
+        Tau - 3,
+        Tau,
+        Tau - 1,
+        1
+    }
+]
+[
+    { 1, 3, 4, 5, 7, 8, 9, 11 }
+]

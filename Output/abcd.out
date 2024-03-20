@@ -1,0 +1,248 @@
+Loading "Triples.m"
+Loading "ZeroDimensionalSubschemes.m"
+Loading "TracePoly.m"
+Loading "NontrivialCurves.m"
+Loading "CurvesGenus0.m"
+Loading "Lattices.m"
+Loading "TracePoly.m"
+n = 2
+Inequivalent triples 2
+For the triple 1 1 1 the scheme S is a surface
+[
+    Scheme over Rational Field defined by
+    a0*b0 - c0*d0
+]
+n = 3
+Inequivalent triples 2
+n = 4
+Inequivalent triples 5
+The triple 1 1 2 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 5
+Inequivalent triples 4
+n = 6
+Inequivalent triples 12
+The triple 1 1 2 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + 2*a0*d0 - 3*c0*d0,
+    b0 - 1/3*c0 - 2/3*d0
+]
+The triple 1 1 3 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 1 2 2 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0 - 2*d0,
+    b0 - 1/2*c0
+]
+The triple 1 2 3 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0 + 2*b0 - 3/2*c0 - 3/2*d0,
+    b0^2 - 3/4*b0*c0 - 3/4*b0*d0 + 1/2*c0*d0
+]
+The triple 2 2 3 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 7
+Inequivalent triples 6
+n = 8
+Inequivalent triples 11
+The triple 1 1 4 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 9
+Inequivalent triples 8
+n = 10
+Inequivalent triples 18
+The triple 1 1 5 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 1 2 3 leads to isolated rational points
+[
+    [ (3 : 1/2 : 3/2 : 1) ]
+]
+Description of the corresponding lattices:
+Applying the automorphism sending zeta_n to zetan^3
+leads to a geometrically valid configuration
+The corresponding values of tau satisfy the equation
+(-zetan - 1)*tau^2 + 1/2*(-7*zetan^3 + zetan^2 - 7*zetan)*tau + 1/2*(-6*zetan^3 
+    + 3*zetan^2 - 3*zetan + 3)
+Tau does not lie in the same cyclotomic field as x,y,z
+The lattices corresponding to the two different values of tau are not homothetic
+Applying the automorphism sending zeta_n to -zetan^2
+leads to a geometrically valid configuration
+The corresponding values of tau satisfy the equation
+(zetan^3 - zetan^2 + zetan - 2)*tau^2 + 1/2*(6*zetan^3 + 7*zetan - 7)*tau + 
+    1/2*(3*zetan^2 + 3*zetan)
+Tau does not lie in the same cyclotomic field as x,y,z
+The lattices corresponding to the two different values of tau are not homothetic
+Lattices number 1 and 3 are homothetic
+Lattices number 2 and 4 are homothetic
+The solution [* 3, 1/2, 3/2, 1,
+    zetan,
+    zetan^2,
+    zetan^3
+*] corresponds to 2 homothety classes of lattices.
+Angles in lattice
+[
+    {
+        Tau + 3,
+        Tau + 1/2
+    },
+    {
+        Tau + 1,
+        Tau + 3/2
+    },
+    {
+        Tau,
+        1
+    }
+]
+[
+    { 2, 8 },
+    { 3, 7 },
+    { 1, 9 }
+]
+Angles in lattice
+[
+    {
+        Tau + 3,
+        Tau + 1/2
+    },
+    {
+        Tau + 1,
+        Tau + 3/2
+    },
+    {
+        Tau,
+        1
+    }
+]
+[
+    { 2, 8 },
+    { 3, 7 },
+    { 1, 9 }
+]
+The triple 2 2 5 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 12
+Inequivalent triples 33
+The triple 1 1 6 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 1 3 5 leads to isolated rational points
+[
+    [ (2 : 2/3 : 4/3 : 1) ]
+]
+Description of the corresponding lattices:
+The solution [* 2, 2/3, 4/3, 1,
+    zetan,
+    zetan^3,
+    zetan^3 - zetan
+*] corresponds to 0 homothety classes of lattices.
+The triple 1 4 5 leads to isolated rational points
+[
+    [ (4/3 : 2/3 : 8/9 : 1) ]
+]
+Description of the corresponding lattices:
+The solution [* 4/3, 2/3, 8/9, 1,
+    zetan,
+    zetan^2 - 1,
+    zetan^3 - zetan
+*] corresponds to 0 homothety classes of lattices.
+n = 14
+Inequivalent triples 28
+The triple 1 1 7 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 2 2 7 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 15
+Inequivalent triples 28
+n = 18
+Inequivalent triples 40
+The triple 1 1 9 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 2 2 9 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 21
+Inequivalent triples 44
+n = 24
+Inequivalent triples 91
+The triple 1 1 12 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 30
+Inequivalent triples 160
+The triple 1 1 15 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 2 2 15 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+n = 42
+Inequivalent triples 262
+The triple 1 1 21 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+The triple 2 2 21 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    a0*c0 + a0*d0 - 2*c0*d0,
+    b0 - 1/2*c0 - 1/2*d0
+]
+
+Total time: 3.710 seconds, Total memory usage: 32.09MB

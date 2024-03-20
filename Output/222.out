@@ -1,0 +1,127 @@
+Loading "Triples.m"
+Loading "ZeroDimensionalSubschemes.m"
+Loading "TracePoly.m"
+Loading "NontrivialCurves.m"
+n = 2
+Number of triples of roots of unity, up to symmetry equivalence: 2
+n = 3
+Number of triples of roots of unity, up to symmetry equivalence: 2
+n = 4
+Number of triples of roots of unity, up to symmetry equivalence: 5
+n = 5
+Number of triples of roots of unity, up to symmetry equivalence: 4
+The triple 1 1 2 leads to curves of positive genera given by [ 1 ]
+n = 6
+Number of triples of roots of unity, up to symmetry equivalence: 12
+n = 7
+Number of triples of roots of unity, up to symmetry equivalence: 6
+n = 8
+Number of triples of roots of unity, up to symmetry equivalence: 11
+The triple 1 1 2 leads to curves of positive genera given by [ 1 ]
+The triple 1 1 3 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    b0^2*c0 - 1/2*b0^2*d0 + b0*c0^2 - 4*b0*c0*d0 + 2*b0*d0^2 - 1/2*c0^2*d0 + 
+        2*c0*d0^2 - d0^3,
+    a0*c0^2 - 4*a0*c0*d0 + 2*a0*d0^2 + 2*b0*c0^2 - b0*c0*d0,
+    a0*b0 - 2*b0*c0 + c0*d0,
+    Curve over Rational Field defined by
+    b0^2*c0 + 2*b0*c0^2 - 8*b0*c0*d0 + 4*b0*d0^2 - c0^3 + 4*c0^2*d0 - 2*c0*d0^2,
+    a0*c0^2 - 4*a0*c0*d0 + 2*a0*d0^2 + b0*c0*d0,
+    a0*b0 - 2*b0*d0 + c0*d0
+]
+The triple 1 2 2 leads to curves of positive genera given by [ 1 ]
+The triple 1 2 3 leads to curves of positive genera given by [ 1, 1 ]
+The triple 1 2 4 leads to curves of positive genera given by [ 3 ]
+The triple 1 3 4 leads to curves of positive genera given by [ 1, 1 ]
+n = 9
+Number of triples of roots of unity, up to symmetry equivalence: 8
+n = 10
+Number of triples of roots of unity, up to symmetry equivalence: 18
+The triple 1 1 2 leads to curves of positive genera given by [ 1 ]
+The triple 1 1 3 leads to curves of positive genera given by [ 1 ]
+The triple 1 1 4 leads to curves of positive genera given by [ 1 ]
+The triple 1 2 2 leads to curves of positive genera given by [ 1 ]
+The triple 1 2 3 leads to curves of positive genera given by [ 5 ]
+The triple 1 2 4 leads to curves of positive genera given by [ 5 ]
+The triple 1 2 5 leads to curves of positive genera given by [ 5 ]
+The triple 1 3 5 leads to curves of positive genera given by [ 5 ]
+The triple 1 4 4 leads to curves of positive genera given by [ 1 ]
+The triple 1 4 5 leads to curves of positive genera given by [ 5 ]
+The triple 2 4 5 leads to curves of positive genera given by [ 5 ]
+n = 12
+Number of triples of roots of unity, up to symmetry equivalence: 33
+The triple 1 1 2 leads to curves of positive genera given by [ 1 ]
+The triple 1 1 3 leads to curves of positive genera given by [ 1 ]
+The triple 1 1 4 leads to curves of positive genera given by [ 1 ]
+The triple 1 1 5 leads to nontrivial genus 0 curves
+[
+    Curve over Rational Field defined by
+    b0^2*c0 - 1/2*b0^2*d0 + 3*b0*c0^2 - 8*b0*c0*d0 + 4*b0*d0^2 - 3/2*c0^2*d0 + 
+        4*c0*d0^2 - 2*d0^3,
+    a0*c0^2 - 8/3*a0*c0*d0 + 4/3*a0*d0^2 + 2/3*b0*c0^2 - 1/3*b0*c0*d0,
+    a0*b0 - 2*b0*c0 + c0*d0,
+    Curve over Rational Field defined by
+    b0^2*c0 + 6*b0*c0^2 - 16*b0*c0*d0 + 8*b0*d0^2 - 3*c0^3 + 8*c0^2*d0 - 
+        4*c0*d0^2,
+    a0*c0^2 - 8/3*a0*c0*d0 + 4/3*a0*d0^2 + 1/3*b0*c0*d0,
+    a0*b0 - 2*b0*d0 + c0*d0
+]
+The triple 1 2 2 leads to curves of positive genera given by [ 1 ]
+The triple 1 2 3 leads to curves of positive genera given by [ 5 ]
+The triple 1 2 4 leads to curves of positive genera given by [ 3 ]
+The triple 1 2 5 leads to curves of positive genera given by [ 1, 1 ]
+The triple 1 2 6 leads to curves of positive genera given by [ 3 ]
+The triple 1 3 3 leads to curves of positive genera given by [ 1 ]
+The triple 1 3 4 leads to curves of positive genera given by [ 5 ]
+The triple 1 3 5 leads to curves of positive genera given by [ 1, 1 ]
+The triple 1 3 6 leads to curves of positive genera given by [ 3 ]
+The triple 1 4 4 leads to curves of positive genera given by [ 1 ]
+The triple 1 4 5 leads to curves of positive genera given by [ 1, 1 ]
+The triple 1 4 6 leads to curves of positive genera given by [ 3 ]
+The triple 1 5 6 leads to curves of positive genera given by [ 1, 1 ]
+The triple 2 2 3 leads to curves of positive genera given by [ 1 ]
+The triple 2 3 3 leads to curves of positive genera given by [ 1 ]
+The triple 2 3 4 leads to curves of positive genera given by [ 3 ]
+The triple 2 3 6 leads to curves of positive genera given by [ 1 ]
+The triple 3 3 4 leads to curves of positive genera given by [ 1 ]
+The triple 3 4 4 leads to curves of positive genera given by [ 1 ]
+The triple 3 4 6 leads to curves of positive genera given by [ 1 ]
+n = 14
+Number of triples of roots of unity, up to symmetry equivalence: 28
+n = 15
+Number of triples of roots of unity, up to symmetry equivalence: 28
+n = 16
+Number of triples of roots of unity, up to symmetry equivalence: 29
+n = 18
+Number of triples of roots of unity, up to symmetry equivalence: 40
+n = 20
+Number of triples of roots of unity, up to symmetry equivalence: 60
+n = 21
+Number of triples of roots of unity, up to symmetry equivalence: 44
+n = 24
+Number of triples of roots of unity, up to symmetry equivalence: 91
+n = 28
+Number of triples of roots of unity, up to symmetry equivalence: 92
+n = 30
+Number of triples of roots of unity, up to symmetry equivalence: 160
+n = 36
+Number of triples of roots of unity, up to symmetry equivalence: 156
+n = 40
+Number of triples of roots of unity, up to symmetry equivalence: 173
+n = 42
+Number of triples of roots of unity, up to symmetry equivalence: 262
+n = 48
+Number of triples of roots of unity, up to symmetry equivalence: 277
+n = 60
+Number of triples of roots of unity, up to symmetry equivalence: 553
+n = 72
+Number of triples of roots of unity, up to symmetry equivalence: 517
+n = 84
+Number of triples of roots of unity, up to symmetry equivalence: 945
+n = 120
+Number of triples of roots of unity, up to symmetry equivalence: 1900
+n = 144
+Number of triples of roots of unity, up to symmetry equivalence: 1869
+
+Total time: 648.940 seconds, Total memory usage: 743.31MB

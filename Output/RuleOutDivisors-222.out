@@ -1,0 +1,34 @@
+Loading "../Triples.m"
+Loading "../TracePoly.m"
+n = 11
+Number of inequivalent triples: 10
+n = 13
+Number of inequivalent triples: 14
+n = 17
+Number of inequivalent triples: 20
+n = 19
+Number of inequivalent triples: 24
+n = 23
+Number of inequivalent triples: 32
+n = 32
+Number of inequivalent triples: 90
+n = 27
+Number of inequivalent triples: 44
+n = 25
+Number of inequivalent triples: 39
+n = 49
+Number of inequivalent triples: 129
+n = 35
+Number of inequivalent triples: 84
+n = 63
+Number of inequivalent triples: 247
+n = 112
+Number of inequivalent triples: 1030
+n = 56
+Number of inequivalent triples: 291
+n = 45
+Number of inequivalent triples: 139
+n = 80
+Number of inequivalent triples: 584
+
+Total time: 862.360 seconds, Total memory usage: 236.22MB

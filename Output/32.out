@@ -1,0 +1,96 @@
+Loading "Triples.m"
+Loading "TracePoly.m"
+Loading "CurvesGenus0.m"
+Loading "Lattices.m"
+Loading "TracePoly.m"
+n = 5
+n = 8
+n = 9
+n = 10
+n = 12
+n = 16
+n = 18
+n = 20
+n = 24
+n = 36
+n = 40
+n = 48
+n = 72
+n = 80
+n = 144
+Lattices for n = 8
+Printing output in the 8 th cyclotomic field
+tau = -zetan^2 - zetan - 1
+[
+    {
+        Tau + 1/2,
+        Tau - 1,
+        Tau + 2
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 2, 3, 5, 6, 7 },
+    { 1, 2, 3, 5, 6, 7 }
+]
+Lattices for n = 10
+Printing output in the 5 th cyclotomic field
+tau = -zetan^2 - 2*zetan - 2
+[
+    {
+        Tau + 1/3,
+        Tau + 4,
+        Tau + 5/4
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 3, 4, 6, 7, 9 },
+    { 1, 3, 4, 6, 7, 9 }
+]
+tau = -2*zetan^3 - zetan - 2
+[
+    {
+        Tau + 1/3,
+        Tau + 4,
+        Tau + 5/4
+    },
+    {
+        Tau,
+        1,
+        Tau + 1
+    }
+]
+[
+    { 1, 2, 3, 7, 8, 9 },
+    { 1, 2, 3, 7, 8, 9 }
+]
+Lattices for n = 12
+Printing output in the 12 th cyclotomic field
+tau = -2*zetan^3 - 2*zetan^2 + zetan + 1
+[
+    {
+        Tau,
+        1,
+        Tau + 1
+    },
+    {
+        Tau - 3,
+        Tau + 3/4,
+        Tau + 2
+    }
+]
+[
+    { 1, 4, 5, 7, 8, 11 },
+    { 1, 4, 5, 7, 8, 11 }
+]
+
+Total time: 2638.639 seconds, Total memory usage: 55.38MB

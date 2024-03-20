@@ -1,0 +1,50 @@
+Consider the equation f = 0 as a polynomial in x. Conditions for the vanishing 
+of all coefficients:
+{
+    Scheme over Rational Field defined by
+    a,
+    c,
+    Scheme over Rational Field defined by
+    a,
+    d,
+    Scheme over Rational Field defined by
+    b,
+    c,
+    Scheme over Rational Field defined by
+    b,
+    d
+}
+Consider the equation f = 0 as a polynomial in y. Conditions for the vanishing 
+of all coefficients:
+{
+    Scheme over Rational Field defined by
+    a,
+    c,
+    Scheme over Rational Field defined by
+    a,
+    d,
+    Scheme over Rational Field defined by
+    b,
+    c,
+    Scheme over Rational Field defined by
+    b,
+    d
+}
+Consider the equation f = 0 as a polynomial in z. Conditions for the vanishing 
+of all coefficients:
+{
+    Scheme over Rational Field defined by
+    a,
+    c,
+    Scheme over Rational Field defined by
+    a,
+    d,
+    Scheme over Rational Field defined by
+    b,
+    c,
+    Scheme over Rational Field defined by
+    b,
+    d
+}
+
+Total time: 21.859 seconds, Total memory usage: 32.09MB
